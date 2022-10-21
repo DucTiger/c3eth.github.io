@@ -25,7 +25,12 @@ images: []
 
 - **Topic:** dRep
 
-- **Description**: All about dRep (conditions to become valid dRep, bonus and influence of dRep with voting..)
+- **Description**: 
+- dRepp là gì?
+- Tầm quan trọng của dRep trong Quản trị Blockchain Cardano
+- Quyền lợi khi trở thành dRep
+- Nhiệm vụ của dRep
+- Làm thế nào để trở thành dRep?
 
 - **Language**: Vietnamese
 
